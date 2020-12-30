@@ -16,3 +16,4 @@ There is also a function names "board" which can draw the board with the locatio
 [6, 1, 3, 0, 7, 4, 2, 5]
 ```
 
+![Board](https://github.com/Pariasrz/8-Queens-HillClimbing/blob/main/Figure.png)
